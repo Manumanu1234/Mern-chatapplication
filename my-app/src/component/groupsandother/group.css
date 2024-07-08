@@ -1,0 +1,28 @@
+
+.grupaddingp{
+    display: flex;
+    flex: 0.7;
+    flex-direction: row;
+    
+
+
+}
+
+.input-textp{
+    outline: none;
+    border: none;
+    width: 340px;
+    display: flex;
+    justify-content: center;
+    margin-left: 210px;
+  
+
+}
+
+.sendbuttonp{
+   margin-top: auto;
+   margin-bottom: auto;
+  margin-left: 50px;
+
+
+}

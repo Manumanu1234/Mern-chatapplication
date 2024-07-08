@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.15.20",
+    "mbd": "^0.1.2",
+    "mdb-react-ui-kit": "^8.0.0"
+  }
+}

@@ -1,0 +1,16 @@
+.maincontainer{
+    background-color: #fff;
+    padding: 10px 5px;
+    margin-top: 20px;
+    display: flex;
+    height: 90vh;
+    width: 90%;
+    border-radius: 20px;
+}
+.Sidebar1{
+    border: 2px solid black;
+
+    flex-direction: column;
+    flex: 0.3;
+}
+

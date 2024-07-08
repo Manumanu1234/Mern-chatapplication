@@ -1,0 +1,102 @@
+.dark2{
+    background-color: rgb(31, 29, 29);
+    color: #fff;
+  
+}
+.main-workarea{
+     border-radius: 20px;
+     display: flex;
+     background-color:#f4f5f8;
+     flex-direction: column;
+     flex: 0.7;
+     padding-left: 8px;
+     padding-right: 8px;
+     margin-left: 10px;
+ 
+}
+
+.chat-head{
+ 
+    margin-top: 10px;
+    background-color: white;
+    display: flex;
+   
+}
+.user-info{
+    padding-left: 5px;
+}
+.delete{
+   margin-left: 80%;
+   margin-top: 10px;
+}
+.title{
+    padding-left: 5px;
+    margin: 10px 0px 0px 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: black;
+}
+.timespan{
+    padding-left: 5px;
+  margin-top: 0px;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    font-size: 0.75rem;
+}
+
+
+
+
+.chat-container {
+    padding: 5px;
+    margin: 20px 7px 7px 7px;
+    border-radius: 20px;
+    background-color: white;
+   float: left;
+    flex: 1;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    scrollbar-width: thin;
+}
+
+.chat-input{
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 20px;
+    background-color: white;
+    display: flex;
+    margin-bottom: 10px;
+    
+}
+.input-text{
+    outline: none;
+    border: none;
+    width: 90vh;
+}
+.sendbutton{
+ margin-left: 70%;
+}
+
+.maincontainerw{
+    border-radius: 20px;
+    display: flex;
+    background-color:#f4f5f8;
+    flex-direction: column;
+    flex: 0.7;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-left: 10px;
+    border-bottom: 5px solid black;
+   
+}
+.imgwelcome{
+    max-width: 90%;
+}
+.classnameforwelcome{
+    display: flex;
+    justify-content: center;
+    margin-top: auto;
+    margin-bottom: auto;
+  
+}
